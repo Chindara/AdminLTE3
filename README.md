@@ -6,3 +6,6 @@ https://adminlte.io/
 
 ## Live Demo
 https://adminlte.io/themes/dev/AdminLTE/index2.html
+
+## Prerequisites
+- .NET Framework 4.5
