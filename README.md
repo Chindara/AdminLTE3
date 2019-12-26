@@ -11,4 +11,4 @@ https://adminlte.io/themes/dev/AdminLTE/index2.html
 - .NET Framework 4.5
 
 ## Screens
-![Imgur](https://imgur.com/OSZe0l4)
+![Dashboard](https://i.imgur.com/xuOApDV.png)
