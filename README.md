@@ -5,7 +5,7 @@ ASP.NET template based on AdminLTE 3
 https://adminlte.io/
 
 ## Live Demo
-https://adminlte.io/themes/dev/AdminLTE/index2.html
+https://adminlte.io/themes/dev/AdminLTE/index3.html
 
 ## Prerequisites
 - .NET Framework 4.5
